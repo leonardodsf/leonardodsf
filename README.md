@@ -7,3 +7,8 @@
 ![js-icon](https://user-images.githubusercontent.com/50807768/87238504-7a931300-c3d9-11ea-883f-b9dd223e1e5f.png) I love Javascript.<br><br>
 ![react](https://user-images.githubusercontent.com/54339869/87896817-c5d3a400-ca1f-11ea-8270-de84c370c474.png) I learning ReactJS and Expo.
 
+<br>
+<p align="center"> Passionate about web and mobile technologies. And with a high taste in UI / UX Design. ✨</p>
+
+
+
