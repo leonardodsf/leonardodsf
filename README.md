@@ -1,14 +1,48 @@
 # Hello, I am Leonardo !
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-santos-flores/)](https://www.linkedin.com/in/leonardo-santos-flores/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:contatoleonardoflores@gmail.com)](mailto:contatoleonardoflores@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/mecnosh/)](https://www.instagram.com/mecnosh/)
 
+<p align="center">
+   <a href="https://www.linkedin.com/in/yuri-flores-53b2b41a4" >
+   <img src="https://img.shields.io/badge/-YuriFlores-008B8B?style=flat&logo=Linkedin&logoColor=white">
+   </a>
+   <a href="mailto:yuriflores2012@gmail.com" >
+   <img src="https://img.shields.io/badge/Gmail--green?logo=gmail&logoColor=red&style=social">
+   </a>
+</p>
 
-![js-icon](https://user-images.githubusercontent.com/50807768/87238504-7a931300-c3d9-11ea-883f-b9dd223e1e5f.png) I love Javascript.<br><br>
-![react](https://user-images.githubusercontent.com/54339869/87896817-c5d3a400-ca1f-11ea-8270-de84c370c474.png) I learning ReactJS and Expo.
+> I am currently learning NextJS:
 
-<br>
-<p align="center"> Passionate about web and mobile technologies. And with a high taste in UI / UX Design. ✨</p>
+<img src="https://img.shields.io/badge/-JavaScript-1C1C1C?style=flat&logo=Javascript&logoColor=yellow">
 
+<img src="https://img.shields.io/badge/-ECMAScript 6-1C1C1C?style=flat&logo=Javascript&logoColor=yellow">
+
+<img src="https://img.shields.io/badge/-React-1C1C1C?style=flat&logo=React&logoColor=blue">
+
+```javascript
+const skills = {
+  frontEnd: {
+    languages: ['HTML', 'CSS', 'JavaScript'],
+    frameworksAndLibs: ['ReactJS', 'GatsbyJS', 'NextJS', 'Bootstrap', 'Material-UI', 'React Hook Form', 'Yup'],
+  },
+  backEnd: {
+    languages: ['PHP'],
+    frameworksAndLibs: ['NodeJS'],
+  }
+};
+```
+
+<center>
+   <table>
+     <tr>
+       <td>
+        <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardodsf&hide=html&layout=compact&theme=radical"/>
+       </td>
+         <td>
+            <img width="440px" align="left" src="https://github-readme-stats.vercel.app/api?username=leonardodsf&theme=radical&show_icons=true" />
+        </td>
+     </tr>  
+   </table>
+</center>
 
 
