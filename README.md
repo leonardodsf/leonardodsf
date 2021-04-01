@@ -17,8 +17,7 @@ const skills = {
     frameworksAndLibs: ['ReactJS', 'GatsbyJS', 'NextJS', 'Bootstrap', 'Material-UI', 'React Hook Form', 'Yup'],
   },
   backEnd: {
-    languages: ['PHP'],
-    frameworksAndLibs: ['NodeJS'],
+    languages: ['PHP', 'NodeJS'],
   }
 };
 ```
