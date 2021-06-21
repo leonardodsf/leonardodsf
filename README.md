@@ -14,7 +14,7 @@
 const skills = {
   frontEnd: {
     languages: ['HTML', 'CSS', 'JavaScript'],
-    frameworksAndLibs: ['ReactJS', 'GatsbyJS', 'NextJS', 'Bootstrap', 'Material-UI', 'React Hook Form', 'Yup'],
+    frameworksAndLibs: ['ReactJS', 'GatsbyJS', 'NextJS', 'Styled-components', 'Scss/sass', 'Bootstrap', 'Material-UI', 'React Hook Form', 'Yup'],
   },
   backEnd: {
     languages: ['PHP', 'NodeJS'],
