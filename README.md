@@ -9,17 +9,6 @@
 
 <img src="https://img.shields.io/badge/-React-1C1C1C?style=flat&logo=React&logoColor=blue">
 
-```javascript
-const skills = {
-  frontEnd: {
-    languages: ['HTML', 'CSS', 'JavaScript'],
-    frameworksAndLibs: ['ReactJS', 'GatsbyJS', 'NextJS', 'Styled-components', 'Scss/sass', 'Bootstrap', 'Material-UI', 'React Hook Form', 'Yup'],
-  },
-  backEnd: {
-    languages: ['PHP', 'NodeJS'],
-  }
-};
-```
 
 <center>
    <table>
