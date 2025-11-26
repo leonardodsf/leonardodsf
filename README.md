@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Leo (Leonardo Flores)
 
-## 🎯 About Me  
+## 🎯 About Me
+
 I'm a Bachelor of Information Systems student passionate about software development, front-end engineering, performance, and creative digital projects.  
 I also have a strong love for PC hardware, gaming, and design.
 
@@ -39,8 +40,10 @@ I also have a strong love for PC hardware, gaming, and design.
 
 ## 🎲 Outside of Coding  
 - 🐉 Big D&D / RPG fan — I love building characters, lore, and fantasy aesthetics  
-- 🏓 Table tennis enthusiast  
-- 🎨 Passionate about **custom digital design** — T-shirts, invitations, graphics, typography  
+- 🏓 Table tennis enthusiast
+- 🎾 Tennis enthusiast
+- 🎨 Passionate about **custom digital design** — T-shirts, invitations, graphics, typography
+- 🎮 Playing some games on my PC / Xbox Console
 
 ---
 
