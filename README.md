@@ -176,7 +176,7 @@ I also have a strong love for PC hardware, gaming, and design.
 - 🐉 Big D&D / RPG fan — I love building characters, lore, and fantasy aesthetics  
 - 🏓 Table tennis enthusiast
 - 🎾 Tennis enthusiast
-- 🎨 Passionate about **custom digital design** — T-shirts, invitations, graphics, typography
+- 🎨 Passionate about **coffee** — I love the v60 method ☕️, and also about **barbecue** (Brazil we call like `churrasco`), mainly the parrilla method 🥩.
 - 🎮 Playing some games on my PC / Xbox Console
 
 ---
